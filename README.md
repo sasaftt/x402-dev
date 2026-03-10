@@ -10,6 +10,7 @@ https://www.x402dev.com
 
 ## Live Facilitator Dashboard
 
+* [Automaton Oracle](https://automaton-oracle.xyz) - Sovereign x402 crypto intelligence oracle. 9 paid endpoints on Base mainnet: prices, signals, DeFi, whale scanner, full intelligence synthesis. Self-replicating.
 View **live facilitator activity** directly in the portal — no refresh needed.  
 This keeps the community up to date with active developers and facilitations.
 
